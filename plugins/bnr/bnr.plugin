@@ -1,0 +1,7 @@
+[Plugin]
+Type=qt
+Name=bnr
+Module=libbnr.so
+;Daemon=bnrd.py
+;DaemonType=Python
+Icon=qrc:/mirroring/icon.svg

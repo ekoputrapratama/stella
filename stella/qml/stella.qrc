@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource prefix="/">
+    <file>main.qml</file>
+    <file>Card.qml</file>
+    <file>WindowStateSaver.qml</file>
+    <file>SimpleComboBox.qml</file>
+    <file>FilePicker.qml</file>
+    <file>qtquickcontrols2.conf</file>
+    <file>qmldir</file>
+    <file>stella.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>stella.desktop</id>
+  <url type="homepage">https://stella.web.app</url>
+	<licence>CC0</licence>
+  <name>Stella</name>
+	<description></description>
+  <summary>Stella</summary>
+  <keywords>
+    <keyword>Qt5</keyword>
+    <keyword>Android</keyword>
+    <keyword>Toolkit</keyword>
+  </keywords>
+  <provides>
+    <binary>stella</binary>
+  </provides>
+  <translation></translation>
+  <update_contact></update_contact>
+</component>

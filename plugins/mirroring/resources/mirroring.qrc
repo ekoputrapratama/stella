@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/mirroring">
+    <file>mirroring.qml</file>
+    <file>icons/screen-cast.svg</file>
+    <file>icons/hotspot.svg</file>
+    <file>icons/usb.svg</file>
+    <file>icons/wait.gif</file>
+    <file>DeviceWindow.qml</file>
+    <file>DeviceItemDelegate.qml</file>
+    <file>device.js</file>
+    <file>minicap.mjs</file>
+  </qresource>
+</RCC>

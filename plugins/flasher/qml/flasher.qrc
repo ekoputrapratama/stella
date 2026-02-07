@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/flasher">
+    <file>flasher.qml</file>
+    <file>flasher.svg</file>
+    <file>SamsungFlashView.qml</file>
+    <file>XiaomiFlashView.qml</file>
+    <file>LenovoFlashView.qml</file>
+  </qresource>
+</RCC>

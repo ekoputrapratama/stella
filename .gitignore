@@ -1,0 +1,8 @@
+*.AppImage
+build/
+build/*
+backups
+CMakeFiles/
+CMakeFiles/*
+.cache/
+vgcore.*

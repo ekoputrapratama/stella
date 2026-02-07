@@ -1,0 +1,5 @@
+[Plugin]
+Type=python
+Name=root
+Module=root.py
+Icon=qrc:/root/root.png

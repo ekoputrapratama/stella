@@ -1,0 +1,5 @@
+[Plugin]
+Type=qt
+Name=mirroring
+Module=libmirroring.so
+Icon=qrc:/mirroring/screen-cast.svg

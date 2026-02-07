@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/unlocker">
+    <file>unlocker.qml</file>
+    <file>unlocker.svg</file>
+  </qresource>
+</RCC>

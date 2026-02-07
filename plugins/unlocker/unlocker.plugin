@@ -1,0 +1,5 @@
+[Plugin]
+Type=qt
+Name=unlocker
+Module=libunlocker.so
+Icon=qrc:/unlocker/unlocker.svg

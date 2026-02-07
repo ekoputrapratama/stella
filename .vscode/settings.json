@@ -1,0 +1,51 @@
+{
+  "C_Cpp.formatting": "clangFormat",
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.default.cppStandard": "c++14",
+  "C_Cpp.default.enableConfigurationSquiggles": true,
+  "C_Cpp.default.intelliSenseMode": "clang-x64",
+  "C_Cpp.workspaceParsingPriority": "high",
+  "cmake.clearOutputBeforeBuild": true,
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "editor.autoIndent": "advanced",
+  // "clang-format.style": "Chromium",
+  "clang-format.language.cpp.enable": true,
+  "qtForPython.path.qmlscene": "/usr/bin/qmlscene --apptype gui",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
+  "cmake.configureSettings": {},
+  "cmake.buildEnvironment": {},
+  "cmake.installPrefix": "/usr",
+  "files.associations": {
+    "*.cc": "cpp",
+    "array": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "ranges": "cpp",
+    "iterator": "cpp",
+    "vector": "cpp",
+    "qmltypeandrevisionsregistration": "cpp"
+  },
+  "C_Cpp.default.includePath": [
+    "/usr/include/python3.9",
+    "/usr/include",
+    "/usr/local/include",
+    "/usr/include/qt",
+    "/usr/include/qt",
+    "/usr/include/qt/QtCore",
+    "/usr/include/qt/QtWidgets",
+    "/usr/include/qt/QtNetwork",
+    "/usr/include/qt/QtGui",
+    "/usr/include/qt/QtQml",
+    "/usr/include/qt/QtQuick",
+    "${workspaceFolder}/lib/stella-common/include",
+    "${workspaceFolder}/lib/stella-common/src",
+    "${workspaceFolder}/stella/include",
+    "${workspaceFolder}/plugins/bnr/include",
+    "${workspaceFolder}/plugins/mirroring/include"
+  ]
+}

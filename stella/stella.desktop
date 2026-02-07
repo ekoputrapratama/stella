@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Stella
+Comment=Stella
+Type=Application
+Exec=stella
+Icon=stella
+Categories=Utility;

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/bnr">
+    <file>bnr.qml</file>
+    <file>bnr.mjs</file>
+    <file>MainForm.qml</file>
+    <file>icon.svg</file>
+  </qresource>
+</RCC>

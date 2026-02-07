@@ -1,0 +1,5 @@
+[Plugin]
+Type=qt
+Name=flasher
+Module=libflasher.so
+Icon=qrc:/flasher/flasher.svg
