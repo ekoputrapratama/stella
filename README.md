@@ -8,7 +8,7 @@ Stella is a comprehensive Qt5 based utility designed for advanced Android users,
 
 ## ⚠️ NOTICE
 
-This app is no longer supported/maintained, it have 5 module in one app and i don't have the time to maintain all of them so i decide to split the app that i want to maintain. The Backup & Restore module has been splitted into its own application here. for the other module if i have more time i'm gonna make it as standalone app also
+This app is no longer supported/maintained, it have 5 module in one app and i don't have the time to maintain all of them so i decide to split the app that i want to maintain. The Backup & Restore module has been splitted into its own application [here](https://github.com/ekoputrapratama/Backdroid). for the other module if i have more time i'm gonna make it as standalone app also
 
 ---
 
